@@ -39,15 +39,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaranjanMaharana&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaranjanMaharana&theme=algolia" />
 </p>
-
----
 
 
 
@@ -62,7 +59,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-5E3B7E?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
----
+
 
 ### 🌐 Let's Connect
 
@@ -74,7 +71,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
----
 
 ### 🪄 Animated Footer
 
