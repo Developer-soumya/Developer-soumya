@@ -16,19 +16,20 @@
 - 🔭 I’m currently working as a **MERN Stack Developer**  
 - 👨‍🏫 Also teaching as an **Instructor**
 - 🎯 Passionate about **problem-solving** and **building innovation**
-- 🌱 Currently exploring advanced **mern + Java + Spring Boot**
+- 🌱 Currently exploring advanced **Java + Spring Boot**
 - 💬 Ask me about **React, JavaScript, MongoDB, Java, Spring Boot**
-- 📫 Reach me at: [soumyamaharana@gmail.com](mailto:soumyamaharana@gmail.com)
+- 📫 Reach me at: [soumyamaharana89@gmail.com](mailto:soumyamaharana89@gmail.com)
 
 ---
 
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,spring,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,spring,tailwind,git,bootstrap,figma,postman" />
 </div>
 
 ---
+
 
 ### 📈 GitHub Stats
 
@@ -48,10 +49,17 @@
 
 ---
 
-### 🎬 Lottie Animation (Optional)
+
+
+### 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://lottie.host/af44db89-f415-48f6-9e4a-d9e9a9e30790/S23V2zJkp0.json" width="300" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-5E3B7E?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
@@ -62,7 +70,7 @@
   <a href="https://www.linkedin.com/in/soumyaranjan-maharana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:soumyaranjan.dev@gmail.com">
+  <a href="mailto:soumyamaharana89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
