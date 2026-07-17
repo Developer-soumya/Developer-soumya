@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **MERN Stack Developer**  
-- 👨‍🏫 Also teaching as an **Instructor**
+- 👨‍🏫 Also teaching as an **Instructor cum Developer**
 - 🎯 Passionate about **problem-solving** and **building innovation**
 - 🌱 Currently exploring advanced **Java + Spring Boot**
 - 💬 Ask me about **React, JavaScript, MongoDB, Java, Spring Boot**
